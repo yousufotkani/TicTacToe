@@ -9,6 +9,7 @@ A key design Patters used in this code is
 Features:
 1. Undo Functionality.
 2. If there is only one player, user can play with a bot.
+3. Player can undo last move
 
 TODO:
 1. Extend Bot Difficulty.
